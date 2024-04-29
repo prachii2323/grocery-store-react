@@ -1,0 +1,80 @@
+/* Product Card Styles */
+.product-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: calc(25% - 20px);
+    display: inline-block;
+    vertical-align: top; 
+    box-sizing: border-box; 
+    transition: box-shadow 0.3s ease; 
+  }
+  
+  .product-card img {
+    width: 100%;
+    border-radius: 5px;
+    object-fit: cover; 
+    height: 350px;
+  }
+  
+  .product-card .name {
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+  .product-card .price {
+    color: green;
+    margin-top: 5px;
+  }
+  
+  .product-card button {
+    display: block;
+    margin-top: 10px;
+    width: 40%;
+    margin-left: 6rem;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product-card button:hover {
+  background-color: #8ccf8c;
+  }
+  
+
+  .product-list {
+    text-align: center;
+  }
+  
+  .product-list .row {
+    margin-bottom: 20px;
+  }
+  
+  .product-list .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .product-card {
+      width: calc(50% - 20px); /* Adjusted width for two products per row on smaller screens */
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .product-card {
+      width: 100%; /* Full width for one product per row on even smaller screens */
+    }
+  }
+  .total-price {
+    font-weight: bold;
+    color: #ff0000; 
+    font-size: 44px;
+  }

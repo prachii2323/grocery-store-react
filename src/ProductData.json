@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "T-shirts",
+        "price": 300,
+        "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/25072090/2023/9/30/6be97619-12fc-40c3-a91b-b5d5f13ba8181696013416163StormbornMenBlackPrintedRawEdgeT-shirt1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Casual Shirt",
+        "price": 750,
+        "image": "https://img0.junaroad.com/uiproducts/19410012/zoom_1-1677344181.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Daily Wear Shirts",
+        "price": 500,
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/h/a/s/3xl-fo-shrt-499-skyblu-5th-anfold-original-imafkhhrgtwyheda-bb.jpeg?q=90&crop=false"
+      },
+      {
+        "id": "4",
+        "name": "Over-Sized Tshirts",
+        "price": 699,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/FU/VC/MR/7633002/oversized-tshirts-500x500.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Printed Shirts",
+        "price": 799,
+        "image": "https://www.tistabene.com/cdn/shop/products/MSH-1911.jpg?v=1694079160"
+      },
+      {
+        "id": "6",
+        "name": "Weddign Special Shirts",
+        "price": 1299,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/XY/BH/GZ/113803419/45-c-500x500.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Daily Wear Kurta",
+        "price": 1150,
+        "image": "https://www.jiomart.com/images/product/original/rvujykzedm/crystal-revenue-men-s-cotton-ethnic-motifs-mirror-work-kurta-set-for-festival-and-wedding-wear-blue-xx-large-product-images-rvujykzedm-0-202306280554.jpg?im=Resize=(500,630)"
+      },
+      {
+        "id": "8",
+        "name": "Festive Kurtas",
+        "price": 1499,
+        "image": "https://valintaformens.com/cdn/shop/files/photo_2023-05-16_22-58-05.jpg?v=1684384565"
+      },
+      {
+        "id": "9",
+        "name": "Denim Shirts",
+        "price": 950,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/ST/UU/KT/135655454/men-denim-jacket-500x500.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Polo Tshits",
+        "price": 499,
+        "image": "https://d1ejm5im4bv2vf.cloudfront.net/pub/media/mf_webp/jpg/media/catalog/product/cache/718154c3aff62b1ad64160986aa81112/m/i/mint-cotton-lycra-premium-polo-front-1.webp"
+      }
+    ]
+  }
+  
